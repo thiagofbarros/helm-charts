@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vaultwarden:
+  - apiVersion: v2
+    appVersion: 1.33.2
+    created: "2026-06-20T23:56:18.527578249Z"
+    description: A Helm chart for Vaultwarden (unofficial Bitwarden server)
+    digest: 37fcde845b62bbade5db9b88a612be3c64e801dc387f45e8db6e5e65b3118b8f
+    name: vaultwarden
+    type: application
+    urls:
+    - https://github.com/thiagofbarros/helm-charts/releases/download/vaultwarden-1.0.0/vaultwarden-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-06-20T23:56:18.527583589Z"
